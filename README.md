@@ -1,4 +1,8 @@
-# SpacexplorerWeb
+# SpaceXplorer Web [![Build Status](https://travis-ci.com/ciaranevans/spacexplorer-web.svg?branch=master)](https://travis-ci.com/ciaranevans/spacexplorer-web)
+
+Angular frontend to serve data from https://github.com/ciaranevans/spacexplorer
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
 
